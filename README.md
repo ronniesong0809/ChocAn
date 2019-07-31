@@ -1,6 +1,14 @@
 # ChocAn
 A health care system. Built by .Net, C#, and MySQL
 
+## Project Participants
+* Alec
+* Aster
+* Brian Lee
+* Long 
+* Lylah
+* Ronnie
+
 ## Project Scope
 Members are expected to worked as part of a six-member team to develop a health care system. Analyzed functional requirements, developed code, tested software applications, and experenced agile development process.
 
