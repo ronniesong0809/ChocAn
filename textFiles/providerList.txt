@@ -1,0 +1,13 @@
+998298223:Beaverton Clinic
+093845932:Portland Clinic
+231445566:Tigard Clinic
+093763466:Gresham Clinic
+098067666:Hillsboro Clinic
+000000985:Seattle Clinic
+098774333:San Francisco Clinic
+112124414:Los Angeles Clinic
+114555151:New York City Clinic
+124142421:Miami Clinic
+012122111:Mobile Clinic
+102402044:Disney Land Clinic
+912901821:Denver Clinic

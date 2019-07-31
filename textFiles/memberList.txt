@@ -1,0 +1,20 @@
+704877715:Tracey Byrne:10 North Sunset Ave:High Point:NC:27265:valid:0
+707674000:Bill Goodwin:7873 River St:Bradenton:FL:34203:valid:0
+276872980:Gregor Parrish:838 Harrison St:Winchester:OH:43110:valid:0
+341410109:Matthew Savage:299 College Street:Omaha:NE:68107:valid:0
+348106063:Yusef Hogan:8775 Richardson St:Muskogee:OK:74403:valid:0
+185735638:Sameeha Rollins:790 Bow Ridge Lane:Tucson:AZ:85718:suspended:800
+537443169:Letitia Britton:8340 San Carlos St:Ephrata:PA:17522:valid:0
+288562922:Teagan Chester:721 Henry Smith St:Grand Forks:ND:58201:valid:0
+900958267:Natalia Wills:235 East Redwood St:Marshalltown:IA:50158:valid:0
+286167723:Jett Cote:58 Addison Ave:Venice:FL:34293:suspended:600
+880843831:Harvir Randall:259 Jockey Hollow Avenue:Silver Spring:MD:20901:valid:0
+488480546:Mohammed Vinson:72 South Park Lane:East Stroudsburg:PA:18301:valid:0
+540425636:Elin Goodman:49 Harvard St:Alexandria:VA:22304:suspended:400
+731090786:Alyssia O’Ryan:8339 Circle Court:Frankfort:KY:40601:valid:0
+101805186:Joyce Higgins:99 N. Tanglewood Rd:Jamaica Plain:MA:02130:valid:0
+306860944:Henry Kaur:876 S. Pennington Dr:Atwater:CA:95301:valid:0
+365815250:Faiza Estrada:209 Gregory Dr:El Paso:TX:79930:valid:0
+559276426:Victor Richard:7660 Henry Smith St:Dawsonville:GA:30534:valid:0
+557111818:Emrys Richardson:306 Thorne St:Owatonna:MN:55060:valid:0
+441565007:Kristen Mackenzie:718 Hawthorne Ave:Clifton:NJ:07011:valid:0

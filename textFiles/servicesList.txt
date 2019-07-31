@@ -1,0 +1,28 @@
+598479:Dietitian Consultation:300
+883948:Aerobics Exercise Session:100
+666001:Internal Waxing:175
+902841:Chocolate Transplant:200
+918371:Chocolate-oscopy:100
+751836:Chocolate Boarding:300
+618353:Vegetable Removal:200
+716396:Kidney Stone Massage:400
+109271:Chocolate Imaging:100
+864312:Swibble Repair:200
+099876:Swibble Removal:200
+234561:Autofac Repair:800
+651611:Ranch IV:100
+097511:Chocolate IV:200
+000018:Pat On The Back:400
+100871:Pat On The Face:100
+987651:Chocolate Rebirth:300
+111234:Face Removal:900
+451131:Lab Work:100
+019163:Chocolate Smear:800
+018354:Risk Assessment:100
+000011:Chocolate Lift:600
+111111:Physical Therapy:100
+918301:Chocolate Identity Reassignment:900
+955555:Chocolate Transfusion:300
+000006:Chocolate Peel:200
+999999:Chocolate Jaw Surgery:300
+009912:Ocular Chiropracting:500
